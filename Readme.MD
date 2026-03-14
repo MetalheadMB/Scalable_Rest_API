@@ -1,20 +1,21 @@
 Scalable REST API with Authentication & Role-Based Access
 
-Tech Stack
+Tech Stack Used: 
 Node.js
 Express
 PostgreSQL
 JWT Authentication
 React
 
-Features
+Features: 
+
 User registration and login
 JWT authentication
 Role-based access
 CRUD Notes API
 API versioning (/api/v1)
 
-Setup
+How to do the Setup: 
 
 1) clone repo
 2) cd backend
