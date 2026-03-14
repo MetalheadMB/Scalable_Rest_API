@@ -1,10 +1,15 @@
 This is a Scalable REST API with Authentication & Role-Based Access
 
-Tech Stack Used: 
+Tech Stack Used:
+
 Node.js
+
 Express
+
 PostgreSQL
+
 JWT Authentication
+
 React
 
 Features: 
