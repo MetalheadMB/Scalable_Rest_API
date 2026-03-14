@@ -47,6 +47,7 @@ API versioning allows future upgrades without breaking clients.
 JWT authentication enables stateless horizontal scaling.
 
 Future scalability improvements could include: 
+
 • Redis caching
 
 • Docker containerization
