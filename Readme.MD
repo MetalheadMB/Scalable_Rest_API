@@ -23,11 +23,17 @@ How to do the Setup:
 4) create .env
 
 PG_USER=
+
 PG_HOST=
+
 PG_DATABASE=
+
 PG_PASSWORD=
+
 PG_PORT=
+
 JWT_SECRET=
+
 
 5) npm start
 
