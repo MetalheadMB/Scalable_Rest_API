@@ -38,6 +38,7 @@ JWT_SECRET=
 5) npm start
 
 SCALABLITY: 
+
 The project uses modular architecture separating routes,
 controllers, middleware, and database configuration.
 
@@ -47,6 +48,9 @@ JWT authentication enables stateless horizontal scaling.
 
 Future scalability improvements could include: 
 • Redis caching
+
 • Docker containerization
+
 • Load balancing
+
 • Microservice architecture
